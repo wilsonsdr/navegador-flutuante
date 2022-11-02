@@ -20,42 +20,42 @@ Baixado e instalado tudo corretamente, vamos ao que interessa 😃
 
 Com seu projeto inicializado, digite o seguinte comando no terminal
 
-<img src="https://user-images.githubusercontent.com/81364355/199529100-044a4e0c-40ef-4e7c-ac58-502856b12db4.png" alt="" width=800 height=38>
+![Screenshot from 2022-11-02 18-05-00](https://user-images.githubusercontent.com/81364355/199602462-27395dc9-dea8-40d6-93aa-ba8ee0dbcb2c.png)
 
 <br>
 
 Em seguida, vamos instalar o pacote de dependência electron
 
-<img src="https://user-images.githubusercontent.com/81364355/199531279-dd98cf8c-816c-4555-bcf5-b73b5653c3bf.png" alt="" width=800 height=38>
+![Screenshot from 2022-11-02 18-05-48](https://user-images.githubusercontent.com/81364355/199602470-bb242ae0-cf79-482f-867d-988afdeabddb.png)
 
 <br>
 
 Faremos duas alterações no package.json 
 
-<img src="https://user-images.githubusercontent.com/81364355/199597372-f4ebcb02-a0ac-481b-a21b-9245516f685f.png" alt="" width=800 height=38>
+<img src="https://user-images.githubusercontent.com/81364355/199597372-f4ebcb02-a0ac-481b-a21b-9245516f685f.png" alt="">
 
-<img src="https://user-images.githubusercontent.com/81364355/199597379-6bf7782b-c4a4-48a5-b5bc-1431b8703ef9.png" alt="" width=800>
+<img src="https://user-images.githubusercontent.com/81364355/199597379-6bf7782b-c4a4-48a5-b5bc-1431b8703ef9.png" alt="">
 
 <br>
 
 Criaremos um arquivo main.js, pegaremos o código do script no site [electronjs.org](https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app#final-starter-code) e colemos no arquivo criado, em seguida, faremos algumas alterações no código
 
-<img src="https://user-images.githubusercontent.com/81364355/199553950-ec895c0b-39d2-43d7-adb0-6fb0a24b5c59.png" alt="" width=800>
+![Screenshot from 2022-11-02 18-12-36](https://user-images.githubusercontent.com/81364355/199603605-92d83874-fcb6-40ab-88bb-e1e778e54420.png)
 
-<img src="https://user-images.githubusercontent.com/81364355/199553966-60d475b7-908b-4523-bf3b-b1de0f31e4cf.png" alt="" width=800 height=38>
+![Screenshot from 2022-11-02 18-12-54](https://user-images.githubusercontent.com/81364355/199603620-83cb2a2d-7c96-4340-9ecb-7aaa7b9b05eb.png)
 
 <br>
 
 Para finalizar, e validar se está tudo funcionando corretamente, criaremos um arquivo html, e digite o seguinte comando no terminal
 
-<img src="https://user-images.githubusercontent.com/81364355/199549615-badc3d08-7b78-409b-b20c-f403669ec7c0.png" alt="" width=800 height=38>
+![Screenshot from 2022-11-02 18-07-35](https://user-images.githubusercontent.com/81364355/199602834-730e0826-ae8b-42e0-81ea-7f27e611f5ff.png)
 
 Irá abrir o lite-server na porta 3000, em seguida, abra um novo terminal, no VSCode pode ser aberto com a tecla de atalho (Ctrl+Shift+5) e digite o seguinte comando
 
-<img src="https://user-images.githubusercontent.com/81364355/199552538-d7f6ba8f-ce1d-4704-b861-0efd8c39d276.png" alt="" width=800 height=38>
+![Screenshot from 2022-11-02 18-09-12](https://user-images.githubusercontent.com/81364355/199603004-59dee93b-1134-40f5-b361-c6d4c26b17e0.png)
 
 <br>
 
 Se você fez tudo certinho até aqui, irá abrir a nossa janela flutuante 😍
 
-<img src="https://user-images.githubusercontent.com/81364355/199555319-a9f4ddd5-7fb2-4863-9bfa-262fa8d0cbb0.png" alt="" width=800>
+<img src="https://user-images.githubusercontent.com/81364355/199555319-a9f4ddd5-7fb2-4863-9bfa-262fa8d0cbb0.png" alt="">
