@@ -20,13 +20,13 @@ Baixado e instalado tudo corretamente, vamos ao que interessa 😃
 
 Com seu projeto inicializado, digite o seguinte comando no terminal
 
-![Screenshot from 2022-11-02 18-05-00](https://user-images.githubusercontent.com/81364355/199602462-27395dc9-dea8-40d6-93aa-ba8ee0dbcb2c.png)
+![Screenshot from 2022-11-03 09-24-12](https://user-images.githubusercontent.com/81364355/199719546-d1a2297d-62a0-4fca-a484-ef882f1e6add.png)
 
 <br>
 
 Em seguida, vamos instalar o pacote de dependência electron
 
-![Screenshot from 2022-11-02 18-05-48](https://user-images.githubusercontent.com/81364355/199602470-bb242ae0-cf79-482f-867d-988afdeabddb.png)
+![Screenshot from 2022-11-03 09-23-11](https://user-images.githubusercontent.com/81364355/199719380-9ecbc83e-00e2-4a11-8769-a0b181280b3e.png)
 
 <br>
 
