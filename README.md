@@ -20,13 +20,13 @@ Baixado e instalado tudo corretamente, vamos ao que interessa 😃
 
 Com seu projeto inicializado, digite o seguinte comando no terminal
 
-![Screenshot from 2022-11-03 09-24-12](https://user-images.githubusercontent.com/81364355/199719546-d1a2297d-62a0-4fca-a484-ef882f1e6add.png)
+`npm init -y`
 
 <br>
 
 Em seguida, vamos instalar o pacote de dependência electron
 
-![Screenshot from 2022-11-03 09-23-11](https://user-images.githubusercontent.com/81364355/199719380-9ecbc83e-00e2-4a11-8769-a0b181280b3e.png)
+`npm install -g electron`
 
 <br>
 
@@ -48,11 +48,11 @@ Criaremos um arquivo main.js, pegaremos o código do script no site [electronjs.
 
 Para finalizar, e validar se está tudo funcionando corretamente, criaremos um arquivo html, e digite o seguinte comando no terminal
 
-![Screenshot from 2022-11-02 18-07-35](https://user-images.githubusercontent.com/81364355/199602834-730e0826-ae8b-42e0-81ea-7f27e611f5ff.png)
+`lite-server`
 
 Irá abrir o lite-server na porta 3000, em seguida, abra um novo terminal, no VSCode pode ser aberto com a tecla de atalho (Ctrl+Shift+5) e digite o seguinte comando
 
-![Screenshot from 2022-11-02 18-09-12](https://user-images.githubusercontent.com/81364355/199603004-59dee93b-1134-40f5-b361-c6d4c26b17e0.png)
+`npm start`
 
 <br>
 
