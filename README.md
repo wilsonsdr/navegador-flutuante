@@ -20,13 +20,17 @@ Baixado e instalado tudo corretamente, vamos ao que interessa 😃
 
 Com seu projeto inicializado, digite o seguinte comando no terminal
 
-`npm init -y`
+```bash
+npm init -y
+```
 
 <br>
 
 Em seguida, vamos instalar o pacote de dependência electron
 
-`npm install -g electron`
+```bash
+npm install -g electron
+```
 
 <br>
 
@@ -48,11 +52,15 @@ Criaremos um arquivo main.js, pegaremos o código do script no site [electronjs.
 
 Para finalizar, e validar se está tudo funcionando corretamente, criaremos um arquivo html, e digite o seguinte comando no terminal
 
-`lite-server`
+```bash
+lite-server
+```
 
 Irá abrir o lite-server na porta 3000, em seguida, abra um novo terminal, no VSCode pode ser aberto com a tecla de atalho (Ctrl+Shift+5) e digite o seguinte comando
 
-`npm start`
+```bash
+npm start
+```
 
 <br>
 
